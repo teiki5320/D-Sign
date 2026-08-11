@@ -52,7 +52,7 @@ class ContactSheet extends StatelessWidget {
       ..clearSnackBars()
       ..showSnackBar(
         const SnackBar(
-          content: Text('Dans Drama, tout passe par les messages.'),
+          content: Text('Dans D-Sign, tout passe par les messages.'),
           duration: Duration(seconds: 2),
         ),
       );
@@ -174,7 +174,7 @@ class ContactSheet extends StatelessWidget {
                         ..showSnackBar(
                           const SnackBar(
                             content: Text(
-                                'Dans Drama, certains numéros reviennent toujours.'),
+                                'Dans D-Sign, certains numéros reviennent toujours.'),
                             duration: Duration(seconds: 2),
                           ),
                         );

@@ -88,7 +88,7 @@ class Palette {
     bannerBg: Color(0xFF1C1C20),
   );
 
-  /// Le carmin DRAMA, identique dans les deux thèmes.
+  /// Le carmin D-Sign, identique dans les deux thèmes.
   static const Color brandColor = Color(0xFFD91E4A);
 
   static Palette of(BuildContext context) =>

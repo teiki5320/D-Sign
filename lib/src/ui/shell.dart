@@ -117,7 +117,7 @@ class _GameShellState extends State<GameShell> with WidgetsBindingObserver {
     }
     Notifications.comeback(
       id: 2,
-      title: 'Drama',
+      title: 'D-Sign',
       body: 'Shen a besoin de toi. La suite t’attend.',
       delay: const Duration(hours: 23),
     );

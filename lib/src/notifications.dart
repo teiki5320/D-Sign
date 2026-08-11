@@ -45,7 +45,7 @@ class Notifications {
           iOS: DarwinNotificationDetails(),
           android: AndroidNotificationDetails(
             'drama_rappels',
-            'Rappels Drama',
+            'Rappels D-Sign',
             importance: Importance.defaultImportance,
           ),
         ),

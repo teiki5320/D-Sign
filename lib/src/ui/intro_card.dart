@@ -42,7 +42,7 @@ class _IntroCardState extends State<IntroCard> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'DRAMA',
+                'D-SIGN',
                 style: TextStyle(
                   color: Palette.brandColor,
                   fontSize: 14,

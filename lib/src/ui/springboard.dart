@@ -119,7 +119,7 @@ class Springboard extends StatelessWidget {
             ),
             const Spacer(),
             Text(
-              'DRAMA',
+              'D-SIGN',
               style: TextStyle(
                 color: Colors.white.withValues(alpha: 0.22),
                 fontSize: 11,

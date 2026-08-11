@@ -549,7 +549,7 @@ class _ChoiceTray extends StatelessWidget {
           ? Center(
               child: Text(
                 engine.ended
-                    ? 'Drama — messagerie uniquement.'
+                    ? 'D-Sign — messagerie uniquement.'
                     : '…',
                 style: TextStyle(color: pal.meta, fontSize: 12.5),
               ),
